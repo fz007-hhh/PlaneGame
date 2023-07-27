@@ -3,7 +3,7 @@
 
 使用java多线程+GUI编写的飞机大战游戏，自创了五个Boss
 
-代码在master分支，使用IDEA+jdk11开发，可以编译运行
+# 代码在master分支，使用IDEA+jdk11开发，可以编译运行
 
 
 ### 游戏简述
